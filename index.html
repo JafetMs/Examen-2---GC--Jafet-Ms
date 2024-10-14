@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Cubos 3D Conectados</title>
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        font-family: Arial, sans-serif;
+      }
+      canvas {
+        border: 1px solid black;
+        width: 80vw;
+        height: 80vh;
+        margin: auto;
+        display: block;
+      }
+      #distancias {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 10px;
+        border-radius: 5px;
+        max-height: 200px;
+        overflow-y: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="distancias"></div>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>
