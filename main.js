@@ -4,7 +4,7 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 let scene, camera, renderer, controls;
 let cubos = [];
 let lineas = [];
-const numCubos = 2; // Número de cubos
+const numCubos = 10; // Número de cubos
 
 // Velocidades aleatorias para cada cubo
 let velocidades = Array.from({ length: numCubos }, () => ({

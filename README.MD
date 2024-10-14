@@ -22,7 +22,7 @@ En Three.js, cada objeto 3D tiene una propiedad `position` que es un `Vector3`. 
 ![alt text](image-4.png)
 
 
-## Creando lineas y actualiznadolas
+## Creando lineas y actualizandolas
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
