@@ -2,6 +2,8 @@
 
 En este archivo se encuentra toda la logica que utilize para instanciar objetos asi como la de desplazar los cubos en la escena y el calculo de las posiciones.
 
+# Link del video
+https://youtu.be/fuAttgXZpWU
 ## Creando el objeto cubo y sus instancias
 
 Esta función define cómo se construye cada cubo y se utiliza dentro de la función
