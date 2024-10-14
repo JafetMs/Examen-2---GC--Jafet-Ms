@@ -11,10 +11,18 @@ Esta función define cómo se construye cada cubo y se utiliza dentro de la func
 Instanciando varios cubos
 
 ![alt text](image-1.png)
+
+
 ## Cálculo de Distancias
 
 La función `distanceTo()` en Three.js calcula la distancia entre dos puntos en un espacio tridimensional utilizando el concepto matemático de **distancia euclidiana**. 
 
 En Three.js, cada objeto 3D tiene una propiedad `position` que es un `Vector3`. Al usar `cubos[i].position.distanceTo(cubos[j].position)`, Three.js calcula la distancia entre los cubos aplicando la fórmula de la distancia euclidiana y devolviendo un valor numérico que representa esta distancia en el espacio 3D.
 
+![alt text](image-4.png)
 
+
+## Creando lineas y actualiznadolas
+![alt text](image-2.png)
+
+![alt text](image-3.png)
