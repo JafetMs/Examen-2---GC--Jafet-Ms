@@ -6,6 +6,11 @@ En este archivo se encuentra toda la logica que utilize para instanciar objetos 
 
 Esta función define cómo se construye cada cubo y se utiliza dentro de la función
 
+![alt text](image.png)
+
+Instanciando varios cubos
+
+![alt text](image-1.png)
 ## Cálculo de Distancias
 
 La función `distanceTo()` en Three.js calcula la distancia entre dos puntos en un espacio tridimensional utilizando el concepto matemático de **distancia euclidiana**. 
